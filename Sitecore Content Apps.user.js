@@ -20,7 +20,7 @@ Add strings into the replacement array in the form of
 [/Words to find/gi,'Words to replace'],
 */
 
-    [/NTO Drive/gi,'Sitecore CMS'],
+    [/NTO Drive/gi,'CMS'],
     
 /*
   _____ _   _ ____     ___  _____   _____ ____ ___ _____ ____
